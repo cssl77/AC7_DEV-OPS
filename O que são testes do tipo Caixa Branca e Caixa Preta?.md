@@ -1,7 +1,7 @@
-Teste de caixa branca
+Teste de caixa branca:
 O analista de testes tem acesso ao código fonte, conhece a estrutura interna do produto sendo analisado e possibilita que sejam escolhidas partes específicas de um componente para serem avaliadas. Esse tipo de teste, também conhecido como teste estrutural , é projetado em função da estrutura do componente e permite uma averiguação mais precisa do comportamento dessa estrutura. Perceba que o acesso ao código facilita o isolamento de uma função ou ação, o que ajuda na análise comportamental das mesmas.
 
-Teste de caixa preta
+Teste de caixa preta:
 O analista não tem acesso ao código fonte e desconhece a estrutura interna do sistema. É também conhecido como teste funcional , pois é baseado nos requisitos funcionais do software. O foco, nesse caso, é nos requisitos da aplicação, ou seja, nas ações que ela deve desempenhar.
 Para mostrar quais problemas que esse tipo de teste rastreia, podemos citar alguns exemplos:
 Data de nascimento preenchida com data futura;
